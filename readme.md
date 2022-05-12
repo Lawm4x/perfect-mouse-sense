@@ -7,4 +7,4 @@ The goal is to keep changing the ingame ads sensitivity until the first point A 
 
 Connect a switch of your choice to GND and pin 9
 
-The used controller is arduino micro pro
+Used controller: arduino micro pro
